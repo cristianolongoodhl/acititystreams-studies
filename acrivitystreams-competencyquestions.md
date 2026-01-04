@@ -69,9 +69,7 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <th name="CQ11"><a href="#CQ11">CQ11</a></th>
       <td>What objects were accepted by a given actor?</td>
     </tr>
-    <tr>
-      <td colspan="3">TODO TentativeAccept</td>
-    </tr>
+    <!-- TODO TentativeAccept -->
     <tr>
       <th name="CQ12"><a href="#CQ12">CQ12</a></th>
       <td>Which actors added a given object to a specific target?</td>
@@ -305,6 +303,20 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
     <tr>
       <th name="CQ62"><a href="#CQ62">CQ62</a></th>
       <td>What objects were flagged by a given actor?</td>
+    </tr>
+    <tr>
+      <th name="CQ63"><a href="#CQ63">CQ63</a></th>
+      <td>Which actors disliked a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-dislike">Dislike definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ64"><a href="#CQ64">CQ64</a></th>
+      <td>What objects were disliked by a given actor?</td>
+    </tr>
+    <tr>
+      <th name="CQ63"><a href="#CQ63">CQ63</a></th>
+      <td>What are the possible answers to a given question?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-question">Question definition</a>.</td>
     </tr>
 
   </tbody>

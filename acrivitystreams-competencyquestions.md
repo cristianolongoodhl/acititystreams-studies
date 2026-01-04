@@ -75,7 +75,7 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
     <tr>
       <th name="CQ12"><a href="#CQ12">CQ12</a></th>
       <td>Which actors added a given object to a specific target?</td>
-      <td rowspan="4"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-add">Add definition</a>.</td>
+      <td rowspan="3"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-add">Add definition</a>.</td>
     </tr>
     <tr>
       <th name="CQ13"><a href="#CQ13">CQ13</a></th>
@@ -94,5 +94,15 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <th name="CQ16"><a href="#CQ16">CQ16</a></th>
       <td>What are the locations a given actor has arrived?</td>
     </tr>
+        <tr>
+    <th name="CQ17"><a href="#CQ17">CQ17</a></th>
+      <td>Which actors created a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-create">Create definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ18"><a href="#CQ18">CQ18</a></th>
+      <td>What objects were created by a given actor?</td>
+    </tr>
+
   </tbody>
 </table>

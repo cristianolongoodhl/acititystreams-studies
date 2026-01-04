@@ -109,8 +109,17 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-delete">Delete definition</a>.</td>
     </tr>
     <tr>
-      <th name="CQ18"><a href="#CQ18">CQ18</a></th>
+      <th name="CQ20"><a href="#CQ20">CQ21</a></th>
       <td>What objects were deleted by a given actor?</td>
+    </tr>
+    <tr>
+      <th name="CQ21"><a href="#CQ21">CQ21</a></th>
+      <td>Which actors followed a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-follow">Follow definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ22"><a href="#CQ22">CQ22</a></th>
+      <td>What objects were followed by a given actor?</td>
     </tr>
 
   </tbody>

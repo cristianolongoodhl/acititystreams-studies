@@ -145,9 +145,28 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-left">Left definition</a>.</td>
     </tr>
     <tr>
-      <th name="CQ26"><a href="#CQ26">CQ26</a></th>
+      <th name="CQ28"><a href="#CQ28">CQ28</a></th>
       <td>What objects were left by a given actor?</td>
     </tr>
+    <tr>
+      <th name="CQ29"><a href="#CQ29">CQ29</a></th>
+      <td>Which actors liked a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-like">Like definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ30"><a href="#CQ30">CQ30</a></th>
+      <td>What objects were liked by a given actor?</td>
+    </tr>
+    <tr>
+      <th name="CQ31"><a href="#CQ31">CQ31</a></th>
+      <td>Which actors offered a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-offer">Offer definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ30"><a href="#CQ30">CQ30</a></th>
+      <td>What objects were liked by a given actor?</td>
+    </tr>
+    <!-- TODO TARGET -->
 
   </tbody>
 </table>

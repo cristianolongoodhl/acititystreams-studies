@@ -189,6 +189,17 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <th name="CQ36"><a href="#CQ36">CQ36</a></th>
       <td>What objects were rejected by a given actor?</td>
     </tr>
-
+    <!-- TODO TentativeReject -->
+    <!-- TODO segnalare che remove dovrebbe avere un target -->
+    <tr>
+      <th name="CQ37"><a href="#CQ37">CQ37</a></th>
+      <td>Which actors removed a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-remove">Remove definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ38"><a href="#CQ38">CQ38</a></th>
+      <td>What objects were removed by a given actor?</td>
+    </tr>
+    
   </tbody>
 </table>

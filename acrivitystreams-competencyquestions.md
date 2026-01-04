@@ -203,11 +203,20 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
     <tr>
       <th name="CQ39"><a href="#CQ39">CQ39</a></th>
       <td>Which actors have undone a given object?</td>
-      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-remove">Remove definition</a>.</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-undo">Undo definition</a>.</td>
     </tr>
     <tr>
       <th name="CQ40"><a href="#CQ40">CQ40</a></th>
       <td>What objects have been undone by a given actor?</td>
+    </tr>
+    <tr>
+      <th name="CQ41"><a href="#CQ41">CQ41</a></th>
+      <td>Which actors updated a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-update">Update definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ42"><a href="#CQ42">CQ42</a></th>
+      <td>What objects were updated by a given actor?</td>
     </tr>
     
   </tbody>

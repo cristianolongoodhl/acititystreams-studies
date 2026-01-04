@@ -121,6 +121,15 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <th name="CQ22"><a href="#CQ22">CQ22</a></th>
       <td>What objects were followed by a given actor?</td>
     </tr>
+    <tr>
+      <th name="CQ23"><a href="#CQ23">CQ23</a></th>
+      <td>Which actors ignored a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-ignore">Ignore definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ24"><a href="#CQ24">CQ24</a></th>
+      <td>What objects were ignored by a given actor?</td>
+    </tr>
 
   </tbody>
 </table>

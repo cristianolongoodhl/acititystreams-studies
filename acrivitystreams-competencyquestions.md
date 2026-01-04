@@ -236,6 +236,15 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <th name="CQ46"><a href="#CQ46">CQ46</a></th>
       <td>What objects were liestened by a given actor?</td>
     </tr>
+    <tr>
+      <th name="CQ47"><a href="#CQ47">CQ47</a></th>
+      <td>Which actors read a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-read">Read definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ48"><a href="#CQ48">CQ48</a></th>
+      <td>What objects were read by a given actor?</td>
+    </tr>
     
   </tbody>
 </table>

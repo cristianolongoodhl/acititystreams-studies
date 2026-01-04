@@ -234,7 +234,7 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
     </tr>
     <tr>
       <th name="CQ46"><a href="#CQ46">CQ46</a></th>
-      <td>What objects were liestened by a given actor?</td>
+      <td>What objects were lietened by a given actor?</td>
     </tr>
     <tr>
       <th name="CQ47"><a href="#CQ47">CQ47</a></th>
@@ -244,6 +244,23 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
     <tr>
       <th name="CQ48"><a href="#CQ48">CQ48</a></th>
       <td>What objects were read by a given actor?</td>
+    </tr>
+    <tr>
+      <th name="CQ49"><a href="#CQ49">CQ49</a></th>
+      <td>Which actors moved a given object from a specific origin to a specific target?</td>
+      <td rowspan="4"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-move">Move definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ48"><a href="#CQ48">CQ48</a></th>
+      <td>What objects were moved by a given actor from a specific origin to a specific target?</td>
+    </tr>
+    <tr>
+      <th name="CQ48"><a href="#CQ48">CQ48</a></th>
+      <td>What origins a specific object was moved from by a given actor and to a specific target?</td>
+    </tr>
+    <tr>
+      <th name="CQ48"><a href="#CQ48">CQ48</a></th>
+      <td>What targets a specific object was moved to by a given actor from a specific origin?</td>
     </tr>
     
   </tbody>

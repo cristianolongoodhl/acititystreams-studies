@@ -288,6 +288,24 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <th name="CQ58"><a href="#CQ58">CQ58</a></th>
       <td>What targets were announced about a specific object by a given actor?</td>
     </tr>
-    
+    <tr>
+      <th name="CQ59"><a href="#CQ59">CQ59</a></th>
+      <td>Which actors blocked a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-block">Block definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ60"><a href="#CQ60">CQ60</a></th>
+      <td>What objects were blocked by a given actor?</td>
+    </tr>
+    <tr>
+      <th name="CQ61"><a href="#CQ61">CQ61</a></th>
+      <td>Which actors flagged a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-flag">Flag definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ62"><a href="#CQ62">CQ62</a></th>
+      <td>What objects were flagged by a given actor?</td>
+    </tr>
+
   </tbody>
 </table>

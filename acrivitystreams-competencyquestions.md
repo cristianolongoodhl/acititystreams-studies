@@ -130,6 +130,15 @@ Some [competency questions](https://doi.org/10.1007/978-3-031-47262-6_3) for a k
       <th name="CQ24"><a href="#CQ24">CQ24</a></th>
       <td>What objects were ignored by a given actor?</td>
     </tr>
+    <tr>
+      <th name="CQ25"><a href="#CQ25">CQ25</a></th>
+      <td>Which actors joined a given object?</td>
+      <td rowspan="2"><a href="https://www.w3.org/TR/activitystreams-vocabulary/#dfn-join">Join definition</a>.</td>
+    </tr>
+    <tr>
+      <th name="CQ26"><a href="#CQ26">CQ26</a></th>
+      <td>What objects were joined by a given actor?</td>
+    </tr>
 
   </tbody>
 </table>
